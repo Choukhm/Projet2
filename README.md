@@ -16,5 +16,5 @@ rails s
 
 C'est bon ! Tu peux acceder au site <a href="http://localhost:3000/">avec ce lien!</a>
 
-Sinon tu peux utiliser <a href="https://jeveuxdodo.herokuapp.com">Heroku!</a>
+Sinon tu peux utiliser <a href="https://wesh-alors.herokuapp.com/">Heroku!</a>
 
